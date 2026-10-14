@@ -142,7 +142,9 @@ def load_publications():
 
 
 def is_in_press(p):
-    return p["kind"] == "paper" and "press" in p["status"].lower()
+    """A paper that is accepted but not yet published: status says "in press" or "accepted"."""
+    status = p["status"].lower()
+    return p["kind"] == "paper" and ("press" in status or "accepted" in status)
 
 
 def load_highlighted(pubs):
@@ -303,7 +305,7 @@ def publications_page(pubs, highlighted, layout=None):
     year_items = {y: [p for p in items if not is_in_press(p)] for y, items in by_year.items()}
     year_items = {y: items for y, items in year_items.items() if items}
     jump = ['<a class="pill active" href="#highlighted">Highlighted</a>'] if highlighted else []
-    jump += ['<a class="pill" href="#in-press">In press</a>'] if in_press else []
+    jump += ['<a class="pill" href="#in-press">Accepted</a>'] if in_press else []
     jump += [f'<a class="pill" href="#year-{y}">{y or "n.d."}</a>' for y in year_items]
     sections = []
     if highlighted:
@@ -311,7 +313,7 @@ def publications_page(pubs, highlighted, layout=None):
         sections.append(f'<section id="highlighted" class="pub-group featured-wrap"><h2>Highlighted papers</h2><div class="featured">{featured}</div></section>')
     sections.append('<h2 class="all-heading">All publications</h2>')
     if in_press:
-        sections.append(f'<section id="in-press" class="card pub-group year-group"><h2>Accepted for publication (in press)</h2><ol class="pubs">{"".join(render_pub(p, p["number"]) for p in in_press)}</ol></section>')
+        sections.append(f'<section id="in-press" class="card pub-group year-group"><h2>Accepted for publication</h2><ol class="pubs">{"".join(render_pub(p, p["number"]) for p in in_press)}</ol></section>')
     for y, items in year_items.items():
         sections.append(f'<section id="year-{y}" class="card pub-group year-group"><h2>{y or "Undated"}</h2><ol class="pubs">{"".join(render_pub(p, p["number"]) for p in items)}</ol></section>')
     return f"""{head}
@@ -415,7 +417,7 @@ def is_first_or_cofirst(p):
 
 
 def cv_values(pubs, talks):
-    accepted = [p for p in pubs if p["kind"] == "paper" and "press" in p["status"].lower()]
+    accepted = [p for p in pubs if is_in_press(p)]
     published = [p for p in pubs if p["kind"] == "paper" and p not in accepted]
     preprints = [p for p in pubs if p["kind"] == "preprint"]
 

@@ -1,48 +1,68 @@
-TY  - GENERIC
+TY  - JOUR
 DO  - 10.1101/2024.05.13.593988
 UR  - http://dx.doi.org/10.1101/2024.05.13.593988
-TI  - plantMASST - Community-driven chemotaxonomic digitization of plants
-T2  - bioRxiv
+TI  - plantMASST: a community-driven chemotaxonomic digitization of plants
+T2  - Nature
 AU  - Mannochio-Russo, Helena †
+AU  - Wang, Xiaofeng †
 AU  - Gomes, Paulo Wender P. †
+AU  - Gonçalves Nunes, Wilhan Donizete
 AU  - Schmid, Robin
 AU  - Zuffa, Simone
+AU  - Quiros-Guerrero, Luis
 AU  - Damiani, Tito
-AU  - Quiros-Guerrero, Luis-Manuel
+AU  - Li, Wenjie
+AU  - Ousley, Derrick A.
+AU  - Hungerford, Jordan A.
+AU  - Mydy, Lisa S.
+AU  - Huisman, Clarissa
+AU  - McConnachie, Matthew D.
+AU  - Su, Hanyu
+AU  - May, Gabrielle
+AU  - El Abiead, Yasin
 AU  - Caraballo-Rodríguez, Andrés Mauricio
 AU  - Zhao, Haoqi Nina
 AU  - Yang, Heejung
 AU  - Xing, Shipei
+AU  - Almaliti, Jehad
+AU  - Tabaza, Yahia Z.
+AU  - Roseberry, Jayden M.
+AU  - Solis-Gozar, Deyvis-Dante
+AU  - Gouda, Harsha
+AU  - Patan, Abubaker
+AU  - Agongo, Julius
 AU  - Charron-Lamoureux, Vincent
-AU  - Chigumba, Desnor N.
-AU  - Sedio, Brian E.
+AU  - Chigumba, Desnor Nicole
+AU  - Shafiq, Khadija
+AU  - McDonough, Kali M.
+AU  - Sedio, Brian Edward
 AU  - Myers, Jonathan A.
 AU  - Allard, Pierre-Marie
 AU  - Harwood, Thomas V.
 AU  - Tamayo-Castillo, Giselle
 AU  - Kang, Kyo Bin
 AU  - Defossez, Emmanuel
-AU  - Koolen, Hector H. F.
+AU  - Koolen, Hector H.F.
 AU  - da Silva, Milton Nascimento
-AU  - e Silva, Consuelo Yumiko Yoshioka
+AU  - Yoshioka e Silva, Consuelo Yumiko
 AU  - Rasmann, Sergio
 AU  - Walker, Tom W. N.
 AU  - Glauser, Gaëtan
 AU  - Chaves-Fallas, José Miguel
 AU  - David, Bruno
 AU  - Kim, Hyunwoo
-AU  - Lee, Kyu Hyeong
+AU  - Lee, Kyuhyeong
 AU  - Kim, Myeong Ji
 AU  - Choi, Won Jun
 AU  - Keum, Young-Sam
-AU  - de Lima, Emilly J. S. P.
+AU  - de Lima, Emilly J.S.P.
 AU  - de Medeiros, Lívia Soman
-AU  - Bataglion, Giovana A.
-AU  - Costa, Emmanoel V.
-AU  - da Silva, Felipe M. A.
+AU  - Bataglion, Giovana Anceski
+AU  - Costa, Emmanoel Vilaça
+AU  - da Silva, Felipe Moura Araujo
 AU  - Carvalho, Alice Rhelly V.
-AU  - Reis, José Diogo E.
-AU  - Pamplona, Sônia
+AU  - Reis, José Diogo Evangelista
+AU  - Pamplona, Sônia das Graças Santa Rosa
 AU  - Jeong, Eunah
 AU  - Lee, Kyungha
 AU  - Kim, Geum Jin
@@ -64,34 +84,44 @@ AU  - Jeong, Se Yun
 AU  - Kim, Ki Hyun
 AU  - Rutz, Adriano
 AU  - Gaudry, Arnaud
-AU  - Bruelhart, Edouard
+AU  - Brülhart, Edouard
 AU  - Kappers, Iris F.
 AU  - Karlova, Rumyana
 AU  - Meisenburg, Mara
 AU  - Berdaguer, Roland
 AU  - Tello, J. Sebastián
 AU  - Henderson, David
-AU  - Cayola, Leslie
+AU  - de Almeida, Rafael Felipe
+AU  - Bauermeister, Anelize
+AU  - Pilon, Alan Cesar
+AU  - Lopes, Norberto Peporine
+AU  - Feitosa, Luís Guilherme Pereira
+AU  - do Rosário, Marcelino Santos
+AU  - Kučerová, Kateřina
+AU  - Lohmann, Lúcia G.
+AU  - da Silva Bolzani, Vanderlan
+AU  - Abraham, Paul E.
+AU  - Cayola, Leslie Eugenia
 AU  - Wright, S. Joseph
 AU  - Allen, David N.
 AU  - Anderson-Teixeira, Kristina J.
 AU  - Baltzer, Jennifer L.
 AU  - Lutz, James A.
 AU  - McMahon, Sean M.
-AU  - Parker, Geoffrey G.
+AU  - Parker, Geoffrey
 AU  - Parker, John D.
 AU  - Northen, Trent R.
 AU  - Bowen, Benjamin P.
 AU  - Pluskal, Tomáš
-AU  - van der Hooft, Justin J. J.
+AU  - van der Hooft, Justin J.J.
 AU  - Carver, Jeremy J.
 AU  - Bandeira, Nuno
 AU  - Pullman, Benjamin S.
+AU  - Weng, Jing-Ke
 AU  - Wolfender, Jean-Luc
-AU  - Kersten, Roland D.
 AU  - Wang, Mingxun
 AU  - Dorrestein, Pieter C. *
-PY  - 2024
-DA  - 2024/05/15
-PB  - openRxiv
+AU  - Kersten, Roland D. *
+PY  - 2026
+N1  - status: Accepted in principle
 ER  -

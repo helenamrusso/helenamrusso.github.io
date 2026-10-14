@@ -100,6 +100,7 @@ main.wrap { padding-top: 48px; padding-bottom: 72px; }
 .topic:nth-child(2) .dot { background: var(--warm); }
 .topic:nth-child(3) .dot { background: #3f8a8c; }
 .topic:nth-child(4) .dot { background: #4d6c8f; }
+.topic:nth-child(5) .dot { background: #6b5b95; }
 .about { padding: 32px; display: grid; grid-template-columns: 200px minmax(0, 1fr); gap: 32px; }
 .about h2 { font-size: 1.35rem; }
 .about p:last-child { margin-bottom: 0; }
