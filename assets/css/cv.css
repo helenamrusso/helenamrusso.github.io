@@ -42,6 +42,7 @@ h2 {
 }
 h3 { margin: 0; font-size: 10pt; font-weight: 600; line-height: 1.35; }
 h3.sub { margin: 10px 0 6px; font-size: 9pt; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); break-after: avoid; }
+h3.group { margin: 14px 0 0; font-size: 10.5pt; font-weight: 600; color: var(--ink); break-after: avoid; }
 section > p + p { margin-top: 6px; }
 .keywords { color: var(--muted); }
 .item { margin-bottom: 8px; break-inside: avoid; }

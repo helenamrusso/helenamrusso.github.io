@@ -203,6 +203,12 @@ class Writer:
         run.bold, run.font.size, run.font.color.rgb = True, Pt(9), MUTED
         p.paragraph_format.keep_with_next = True
 
+    def group(self, node):
+        p = self.para(space_before=10, space_after=2)
+        run = p.add_run(squash(node.text()))
+        run.bold, run.font.size, run.font.color.rgb = True, Pt(10), INK
+        p.paragraph_format.keep_with_next = True
+
     def title_row(self, h3, when, space_before=4):
         p = self.para(space_before=space_before)
         p.paragraph_format.tab_stops.add_tab_stop(self.text_width, WD_TAB_ALIGNMENT.RIGHT)
@@ -259,6 +265,8 @@ class Writer:
                 self.block(c)
         elif node.tag == "h2":
             self.h2(node)
+        elif node.tag == "h3" and "group" in cls:
+            self.group(node)
         elif node.tag == "h3" and "sub" in cls:
             self.sub(node)
         elif node.tag == "div" and "item" in cls:
