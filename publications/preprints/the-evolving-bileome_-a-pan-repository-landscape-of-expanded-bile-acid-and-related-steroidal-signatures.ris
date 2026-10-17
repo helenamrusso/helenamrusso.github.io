@@ -1,0 +1,31 @@
+TY  - JOUR
+T1  - The Evolving Bileome: A Pan-Repository Landscape of Expanded Bile Acid and Related Steroidal Signatures
+JF  - bioRxiv
+DO  - 10.64898/2026.10.10.758218
+SP  - 2026.10.10.758218
+AU  - Mannochio-Russo, Helena
+AU  - Nelson, Megan R.
+AU  - Charria-Giron, Esteban
+AU  - Torres-Ortega, Laura R.
+AU  - Agongo, Julius
+AU  - Goncalves Nunes, Wilhan D.
+AU  - Patan, Abubaker
+AU  - Strobel, Michael
+AU  - David, Lurian C.
+AU  - Panitchpakdi, Morgan
+AU  - Gentry, Emily C.
+AU  - Caraballo-Rodriguez, Andres Mauricio
+AU  - Zemlin, Jasmine
+AU  - Kamenik, Zdenek
+AU  - Acebo, Nina
+AU  - Montoya Giraldo, Yessica A.
+AU  - Bauermeister, Anelize
+AU  - Wang, Mingxun
+AU  - van der Hooft, Justin J.J.
+AU  - Hagey, Lee R.
+AU  - Mohanty, Ipsita
+AU  - Dorrestein, Pieter C.
+Y1  - 2026/01/01
+UR  - http://biorxiv.org/content/early/2026/10/16/2026.10.10.758218.abstract
+N2  - Bile acids and related steroidal metabolites are among the most studied biomolecules, yet recent work has revealed far greater structural diversity than previously recognized, much of it shaped by the microbiome. We previously introduced a repository-scale bile acid MS/MS library built from queries targeting C24 bile acid fragmentation, limited to Orbitrap Q Exactive datasets within GNPS/MassIVE. Here we announce a major expansion of this library: a bile acid and steroidal MS/MS spectral library assembled across three major metabolomics repositories, now capturing C23, C24 (including alkamine), C26 (C-C bonded aceto derivatives), and C27 bile acids, as well as C28 bile alcohols. The expanded libraries comprise 640,141 unique MS/MS spectra, of which 120,293 (18.8%) match 2,529 reference spectra, leaving most of this steroidal chemical space structurally unassigned. Linked to harmonized pan-repository metadata, the library provides a starting point for classifying MS/MS spectra as likely bile acids or related steroids, with two example analyses illustrated here. This resource allows researchers to flag candidate bile acid and steroidal signatures in their own data for further characterization.Competing Interest StatementP.C.D. is an advisor and holds equity in Cybele, BileOmix and Sirenas and a Scientific co-founder, advisor and holds equity to Ometa, Enveda, and Arome with prior approval by UC-San Diego. P.C.D. also consulted for DSM animal health in 2023. M.W. is a co-founder of Ometa Labs LLC. J.J.J.vdH. is a member of the Scientific Advisory Board of NAICONS Srl., Milano, Italy and consults for Corteva Agriscience, Indianapolis, IN, USA. National Institute of Diabetes and Digestive and Kidney Diseases, https://ror.org/00adh9b73, U24DK133658Fulbright BrazilEuropean Unions Horizon Europe, MAGiC-MOLFUN (grant no. 101072485)Programme Johannes Amos Comenius, CZ.02.01.01/00/22_008/0004597
+ER  - 
