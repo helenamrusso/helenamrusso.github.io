@@ -3,7 +3,7 @@
   "base_url": "https://helenamrusso.github.io",
   "tagline": "Postdoctoral Researcher · Dorrestein Lab, UC San Diego",
   "my_name_patterns": ["mannochio", "^russo, h"],
-  "selected_on_home": 5,
+  "selected_on_home": 6,
   "publication_layout": "list",
   "nav": [
     ["index.html", "Home"],
