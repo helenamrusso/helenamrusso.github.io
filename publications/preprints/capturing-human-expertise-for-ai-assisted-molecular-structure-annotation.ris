@@ -1,0 +1,24 @@
+TY  - JOUR
+T1  - Capturing human expertise for AI-assisted molecular structure annotation
+JF  - bioRxiv
+DO  - 10.64898/2026.11.25.769360
+SP  - 2026.11.25.769360
+AU  - Goncalves Nunes, Wilhan D.
+AU  - Ting, Janele
+AU  - Patan, Abubaker
+AU  - Agongo, Julius
+AU  - Wang, Crystal X.
+AU  - Gouda, Harsha
+AU  - Deleray, Victoria
+AU  - Arman, Md Sakil
+AU  - Baijnath, Sooraj
+AU  - Mohanty, Ipsita
+AU  - Barnes, Stephen
+AU  - Hagey, Lee R.
+AU  - Wang, Mingxun
+AU  - Mannochio-Russo, Helena
+AU  - Dorrestein, Pieter C.
+Y1  - 2026/01/01
+UR  - http://biorxiv.org/content/early/2026/11/27/2026.11.25.769360.abstract
+N2  - We developed a large language model-based tool that captures expert reasoning in bile acid structure elucidation, drawing on hand written notebooks, scientific literature, and recorded voice-to-text analytical sessions. It generates human-readable reports detailing evidence for and against candidate structures, tracing each inference to its source and identifying ambiguities. When applied to data, the tool proposes bile acid conjugates lacking reference spectra.Competing Interest StatementPCD is an advisor and holds equity in Cybele, BileOmix, Sirenas and a scientific co-founder, advisor, holds equity and/or received income from Ometa, Enveda, and Arome with prior approval by UC San Diego. PCD also consulted for DSM animal health in 2023.EnvedaGivesNational Institute of Neurological Disorders and Stroke, https://ror.org/01s5ya894, K99NS147878National Institute on Aging, K23AG102190American Heart Association, 26POST1559436National Institutes of Health, U54HG006938
+ER  - 
